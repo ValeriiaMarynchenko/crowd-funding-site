@@ -1,0 +1,53 @@
+#main{
+	width:80%;
+	margin-left:10%;
+	background:white;
+}
+#main h1{
+	color:#708F1E;
+	padding-top:10px;
+	padding-left:2%;
+}
+img{
+	border: 1px solid #ddd;
+
+	
+}
+
+#piccontent{
+	
+	width:70%;
+	float:left;
+	background:white;
+	padding:20px;
+	
+}
+#sidebar{
+	
+	width:30%;
+	float:left;
+	color:#708F1E;
+	background:white;
+	
+}
+#sidebar p{
+	color:black;
+}
+#sidebar h2{
+	color:black;
+}
+#comments{
+	
+	width:70%;
+	background:#708F1E;
+	padding:20px;
+}
+#comments h3{
+	background:#708F1E;
+}
+input[type="button"]{
+	color:white;
+	background:#708F1E;
+	width:25%;
+	height:45px;
+}
