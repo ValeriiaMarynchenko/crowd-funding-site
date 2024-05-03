@@ -1,4 +1,3 @@
-# SAHARA 
 ## A Crowd Funding Website
 
 #### Purpose 
