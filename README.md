@@ -1,27 +1,27 @@
-## A Crowd Funding Website
-
+## Crowdfunding Platform
 #### Purpose 
-Allow users to post request for fonationd and give donations to other users , all request are moderated by admin
+The platform facilitates users to post funding requests and contribute donations to other users. All requests undergo moderation by administrators.
  
 #### Scope
-this is a website Project developed as part of Web Engneering Subject project.
-the Application has two types of users
+This project is developed as part of a Web Engineering subject. The application caters to two user roles:
+
 - Admin
-  moniters all the request posted by users
-  accept request
-  reject request
-  delete users
+  Monitor and manage all user requests.
+  Approve or reject funding requests.
+  Manage user accounts.
+
 - Users
-  Sign up and Login
-  post funding request
-  give donation to people
-  post comments
-  search
-  and many other features
+  Sign up and login securely.
+  Submit funding requests.
+  Contribute donations.
+  Engage through comments.
+  Utilize search functionality.
+  Access various other features.
   
 #### Tools And Technogies used
 - PHP backed
 - bootstrap responsive design framework
+- MySQL
 - HTML
 - CSS
 - JavaScript
@@ -29,6 +29,6 @@ the Application has two types of users
 #### How to USE
 ```
  - clone project
- - set up wamp Server
+ - turn-on your server
  - run file " mainPage.php"
  ```
